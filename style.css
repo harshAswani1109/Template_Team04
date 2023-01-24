@@ -1,0 +1,72 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  border: black;
+  border: solid;
+  width: 30%;
+  height: 50%;
+}
+.boxContainer,
+.text-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-container {
+  text-align: center;
+}
+.ls,
+.rs {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  margin-top: 8px;
+  color: rgb(81, 78, 115);
+  font-weight: bold;
+}
+.leftSide {
+  margin: 40px;
+  text-align: left;
+}
+.rightSide {
+  margin: 40px;
+  text-align: left;
+}
+.l */ .img {
+  height: 20px;
+  width: 50px;
+}
+.heading {
+  margin: 28px;
+  color: rgb(81, 78, 115);
+}
+.red {
+  color: red;
+  font-weight: bold;
+}
+.text {
+  margin: 24px;
+}
+.target {
+  width: 40%;
+}
+.navBar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navBar h1 {
+  margin-left: 20px;
+}
+.container {
+  margin: 20px;
+}
+.navBar h4 {
+  text-align: right;
+}
